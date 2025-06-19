@@ -1,0 +1,5 @@
+2025-06-19 21:59:00,683 [INFO] Enter the try block
+2025-06-19 21:59:03,130 [INFO] Performed train test split on the dataframe
+2025-06-19 21:59:03,131 [INFO] Exited split_data_as_train_test method of Data_Ingestion class
+2025-06-19 21:59:03,132 [INFO] Exporting train and test file path.
+2025-06-19 21:59:03,228 [INFO] Exported train and test file path.
