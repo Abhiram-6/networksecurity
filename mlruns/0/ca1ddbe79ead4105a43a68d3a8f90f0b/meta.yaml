@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Abhiram/Desktop/ml-project-2/mlruns/0/ca1ddbe79ead4105a43a68d3a8f90f0b/artifacts
+end_time: 1750783771064
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca1ddbe79ead4105a43a68d3a8f90f0b
+run_name: sedate-panda-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750783757231
+status: 3
+tags: []
+user_id: Abhiram

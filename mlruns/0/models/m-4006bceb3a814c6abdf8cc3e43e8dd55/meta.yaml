@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Abhiram/Desktop/ml-project-2/mlruns/0/models/m-4006bceb3a814c6abdf8cc3e43e8dd55/artifacts
+creation_timestamp: 1750783757678
+experiment_id: '0'
+last_updated_timestamp: 1750783771010
+model_id: m-4006bceb3a814c6abdf8cc3e43e8dd55
+model_type: null
+name: model
+source_run_id: ca1ddbe79ead4105a43a68d3a8f90f0b
+status: 2
+status_message: null

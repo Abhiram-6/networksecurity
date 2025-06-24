@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Abhiram/Desktop/ml-project-2/mlruns/0/2ad6b9b5140a47d9ad8a0b031c7c11af/artifacts
+end_time: 1750783778188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ad6b9b5140a47d9ad8a0b031c7c11af
+run_name: suave-mink-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750783771254
+status: 3
+tags: []
+user_id: Abhiram

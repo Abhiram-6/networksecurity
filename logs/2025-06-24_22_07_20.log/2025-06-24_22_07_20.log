@@ -1,0 +1,25 @@
+2025-06-24 22:07:27,179 [INFO] Enter the try block
+2025-06-24 22:07:32,018 [INFO] Performed train test split on the dataframe
+2025-06-24 22:07:32,018 [INFO] Exited split_data_as_train_test method of Data_Ingestion class
+2025-06-24 22:07:32,018 [INFO] Exporting train and test file path.
+2025-06-24 22:07:32,089 [INFO] Exported train and test file path.
+2025-06-24 22:07:32,090 [INFO] Data ingestion is completed
+2025-06-24 22:07:32,099 [INFO] initate data validation
+2025-06-24 22:07:32,233 [INFO] Required number of columns: 2
+2025-06-24 22:07:32,233 [INFO] Data frame has columns : 31
+2025-06-24 22:07:32,235 [INFO] Required number of columns: 2
+2025-06-24 22:07:32,236 [INFO] Data frame has columns : 31
+2025-06-24 22:07:32,536 [INFO] data validation is completed
+2025-06-24 22:07:32,537 [INFO] data transformation started
+2025-06-24 22:07:32,537 [INFO]  entered initiate_data_transformation method 
+2025-06-24 22:07:32,537 [INFO] starting data transformation
+2025-06-24 22:07:32,581 [INFO] Entered get_data_trnasformer_object method of Trnasformation class
+2025-06-24 22:07:32,581 [INFO] intialize KNNImputer with params: {'missing_values': nan, 'n_neighbors': 3, 'weights': 'uniform'}
+2025-06-24 22:07:32,612 [INFO] Entered the save_object method of MainUtils class
+2025-06-24 22:07:32,620 [INFO] Exited the save_object method of MainUtils class
+2025-06-24 22:07:32,623 [INFO]  data transformation completed 
+2025-06-24 22:07:32,623 [INFO] Model Training sstared
+2025-06-24 22:19:38,223 [INFO] Entered the save_object method of MainUtils class
+2025-06-24 22:19:38,224 [INFO] Exited the save_object method of MainUtils class
+2025-06-24 22:19:38,225 [INFO] Model trainer artifact: ModelTrainerArtifact(trained_model_file_path='Artifacts\\06_24_2025_22_07_22\\model_trainer\\trained_model\\model.pkl', train_metric_artifact=ClassificationMetricArtifact(f1_score=0.991638964440415, precision_score=0.9905413564097404, recall_score=0.9927390076643808), test_metric_artifact=ClassificationMetricArtifact(f1_score=0.9733998337489609, precision_score=0.9701739850869926, recall_score=0.9766472060050042))
+2025-06-24 22:19:38,234 [INFO] Model Training artifact created
