@@ -1,0 +1,11 @@
+2025-06-25 11:13:05,606 [INFO] HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2025-06-25 11:13:05,614 [INFO] Accessing as Abhiram-6
+2025-06-25 11:13:06,228 [INFO] HTTP Request: GET https://dagshub.com/api/v1/repos/Abhiram-6/networksecurity "HTTP/1.1 200 OK"
+2025-06-25 11:13:06,842 [INFO] HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+2025-06-25 11:13:06,848 [INFO] Initialized MLflow to track repo "Abhiram-6/networksecurity"
+2025-06-25 11:13:06,850 [INFO] Repository Abhiram-6/networksecurity initialized!
+2025-06-25 11:13:07,505 [ERROR] Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
